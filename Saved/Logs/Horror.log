@@ -789,3 +789,14 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.09.16-20.25.09:491][785]AssetCheck: New page: Asset Save: Main_World
 [2022.09.16-20.25.09:491][785]LogContentValidation: Display: Validating World /Game/Maps/Main_World.Main_World
 [2022.09.16-20.25.11:626][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.09.16-20.28.15:249][108]Cmd: DELETE
+[2022.09.16-20.28.15:249][108]Cmd: ACTOR DELETE
+[2022.09.16-20.28.15:254][108]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.16-20.28.15:262][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.09.16-20.28.15:263][108]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.09.16-20.28.16:461][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_World" FILE="../../../../../../Users/Aidan Saunders/Documents/GitHub/horror-game/Content/Maps/Main_World.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.16-20.28.16:467][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.16-20.28.16:509][166]LogSavePackage: Moving output files for package: /Game/Maps/Main_World
+[2022.09.16-20.28.16:510][166]LogSavePackage: Moving '../../../../../../Users/Aidan Saunders/Documents/GitHub/horror-game/Saved/Main_WorldED8BFFE049514BCC479C29BEF46D4272.tmp' to '../../../../../../Users/Aidan Saunders/Documents/GitHub/horror-game/Content/Maps/Main_World.umap'
+[2022.09.16-20.28.16:528][166]AssetCheck: New page: Asset Save: Main_World
+[2022.09.16-20.28.16:528][166]LogContentValidation: Display: Validating World /Game/Maps/Main_World.Main_World
