@@ -1,5 +1,15 @@
-2022/09/14-17:51:57.270 47a0 Reusing MANIFEST C:/Users/Aidan Saunders/Desktop/UnrealEngineGames/Horror/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/09/14-17:59:57.485 8b4 Level-0 table #5: started
-2022/09/14-17:59:57.496 8b4 Level-0 table #5: 7660 bytes OK
-2022/09/14-17:59:57.499 8b4 Delete type=0 #3
-2022/09/14-17:59:57.499 8b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/09/23-16:05:24.015 2408 Reusing MANIFEST C:/Users/Aidan Saunders/Documents/GitHub/horror-game/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/23-16:05:24.015 2408 Recovering log #4
+2022/09/23-16:05:24.015 2408 Reusing old log C:/Users/Aidan Saunders/Documents/GitHub/horror-game/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2022/09/23-16:39:58.725 4850 Level-0 table #8: started
+2022/09/23-16:39:58.730 4850 Level-0 table #8: 8054 bytes OK
+2022/09/23-16:39:58.733 4850 Delete type=0 #4
+2022/09/23-16:39:58.734 4850 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/09/23-16:39:58.734 4850 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x90\x92@\xe03xB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 180 : 1
+2022/09/23-16:39:58.734 4850 Compacting 1@1 + 1@2 files
+2022/09/23-16:39:58.743 4850 Generated table #9@1: 42 keys, 2411 bytes
+2022/09/23-16:39:58.743 4850 Compacted 1@1 + 1@2 files => 2411 bytes
+2022/09/23-16:39:58.746 4850 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/23-16:39:58.746 4850 Delete type=2 #5
+2022/09/23-16:39:58.746 4850 Delete type=2 #8
+2022/09/23-16:39:58.747 4850 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x90\x92@\xe03xB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 180 : 1 .. (end); will stop at (end)

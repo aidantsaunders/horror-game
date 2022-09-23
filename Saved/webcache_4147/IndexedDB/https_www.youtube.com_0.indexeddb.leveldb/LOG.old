@@ -1,0 +1,5 @@
+2022/09/14-17:51:57.270 47a0 Reusing MANIFEST C:/Users/Aidan Saunders/Desktop/UnrealEngineGames/Horror/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/14-17:59:57.485 8b4 Level-0 table #5: started
+2022/09/14-17:59:57.496 8b4 Level-0 table #5: 7660 bytes OK
+2022/09/14-17:59:57.499 8b4 Delete type=0 #3
+2022/09/14-17:59:57.499 8b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

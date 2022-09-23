@@ -34,3 +34,11 @@
 [0914/175157.063:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0914/175157.064:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0914/175157.586:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 125
+[0923/160522.990:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0923/160522.991:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0923/160522.991:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0923/160522.992:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0923/171608.755:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0923/171608.755:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0923/171613.758:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0923/171613.767:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
